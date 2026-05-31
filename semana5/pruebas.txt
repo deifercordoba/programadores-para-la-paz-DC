@@ -1,0 +1,3 @@
+http://localhost:3000:lo que vi  es que esta es la ruta principal la cual muestra un mensaje de bienvenida
+http://localhost:3000/saludo:esta es una ruta estatica siempre responde a la misma direccion y normalmente devuelve un mensaje fijo
+http://localhost:3000/mensaje/juan:es una ruta dinamica porque contiene un parametro (deifer) con express se puede definir como /mensaje/nombre: para que funcione con cualquier nombre y resṕonda por ejemplo ,"hola deifer" o "hola maria" etc.

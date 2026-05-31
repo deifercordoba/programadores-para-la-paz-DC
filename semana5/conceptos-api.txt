@@ -1,0 +1,1 @@
+http://localhost:3000/reporte:esta puede servir para registrar informacion o realizar procesos que no se pueden ver que se ejecutan o se realizan pero no se muestra detalladamente como se hacen
